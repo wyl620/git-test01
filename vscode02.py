@@ -1,0 +1,1 @@
+print("hello world from vscode02.py")
